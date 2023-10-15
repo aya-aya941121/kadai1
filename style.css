@@ -309,7 +309,7 @@ main{
     display: block;
 }
 
-@media screen and (min-width: 768px){
+/*@media screen and (min-width: 768px){*/
 .FirstView {
     background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
     background-size: cover;
@@ -323,12 +323,7 @@ main{
         background-image: none;
         padding-top: 0;
         padding-bottom: 35px;
-}}
-
-.FirstView__main-image{
-    width: 100%;
-}}
-
+    
 /*@media screen and (min-width: 768px){*/
 .FirstView__main-image--sp {
     display: none;
@@ -337,6 +332,10 @@ main{
 @media screen and (max-width: 767px){
 .FirstView__main-image--sp {
     display: block;
+}}
+
+.FirstView__main-image{
+    width: 100%;
 }}
 
 img{
