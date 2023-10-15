@@ -329,7 +329,7 @@ main{
     width: 100%;
 }}
 
-@media screen and (min-width: 768px){
+/*@media screen and (min-width: 768px){*/
 .FirstView__main-image--sp {
     display: none;
 }}
