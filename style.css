@@ -325,9 +325,11 @@ main{
         padding-bottom: 35px;
     }
 }
+
+@media screen and (min-width: 768px){
 .FirstView__main-image{
     width: 100%;
-}
+}}
 
 @media screen and (min-width: 768px){
 .FirstView__main-image--sp {
