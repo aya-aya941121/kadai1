@@ -326,6 +326,10 @@ main{
     }
 }
 
+.FirstView__main-image{
+    width: 100%;
+}
+
 /*@media screen and (min-width: 768px){*/
 .FirstView__main-image--sp {
     display: none;
@@ -335,10 +339,6 @@ main{
 .FirstView__main-image--sp {
     display: block;
 }}
-
-.FirstView__main-image{
-    width: 100%;
-}
 
 img{
     border:0;
