@@ -327,7 +327,7 @@ main{
 /*@media screen and (min-width: 768px){*/
 .FirstView__main-image--sp {
     display: none;
-}}
+}
 
 @media screen and (max-width: 767px){
 .FirstView__main-image--sp {
