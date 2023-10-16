@@ -312,8 +312,9 @@ main{
 /*@media screen and (min-width: 768px){*/
 .FirstView {
     background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
-    background-size: 100% auto;
+    background-size: cover;
     background-position: center;
+    margin-right: 0;
     padding-top: 100px;
     padding-bottom: 28px;
 }}
