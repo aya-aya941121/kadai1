@@ -318,13 +318,12 @@ main{
     padding-bottom: 28px;
 }}
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px){
 .FirstView {
-        background-image: none;
-        padding-top: 0;
-        padding-bottom: 35px;
+    background-image: none;
+    padding-top: 0;
+    padding-bottom: 35px;
 }}
-
 
 @media screen and (min-width: 768px){
 .FirstView__main-image--sp {
